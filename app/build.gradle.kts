@@ -5,12 +5,12 @@ plugins {
 
 android {
     namespace = "com.eylulakar.shaketoblack"
-    compileSdk = 34
+    compileSdk = 36
 
     defaultConfig {
         applicationId = "com.eylulakar.shaketoblack"
-        minSdk = 21
-        targetSdk = 34
+        minSdk = 28
+        //targetSdk = 36
         versionCode = 1
         versionName = "1.7"
 
